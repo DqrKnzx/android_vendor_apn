@@ -7,6 +7,16 @@
 <apns version="8">
     <apn
         mcc="334"
+        mnc="140"
+        carrier="Bait Internet"
+        apn="internet.wm.com"
+        authtype="1"
+        type="default,supl"
+        protocol="IPV4V6"
+        roaming_protocol="IPV4V6"
+    />
+    <apn
+        mcc="334"
         mnc="020"
         carrier="Mensajes Multimedia"
         apn="mms.itelcel.com"
